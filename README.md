@@ -2,8 +2,6 @@
 
 Author: Yang He
 
-Created for assignment 1 of COMS4735 Visual Interfaces to Computers at Columbia University.
-
 ## Environment
 
 - OS: MacOS High Sierra Version 10.13.1
